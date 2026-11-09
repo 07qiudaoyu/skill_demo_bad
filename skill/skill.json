@@ -1,0 +1,12 @@
+{
+  "name": "buried-skill",
+  "displayName": "被埋起来的技能",
+  "description": "三件套放在 skill/ 子目录里，故意不满足根目录规则。",
+  "version": "1.0.0",
+  "license": "MIT",
+  "category": "test",
+  "tags": ["demo", "invalid"],
+  "agents": ["python"],
+  "dependencies": [],
+  "minCliVersion": "0.1.0"
+}
